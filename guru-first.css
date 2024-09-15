@@ -1,0 +1,35 @@
+.welcome-text{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+.welcome-text-2{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.email{
+    display: flex;
+        align-items: center;
+justify-content: center;
+}
+.email-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.space{
+    margin-bottom: 20px;
+}
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.buttns{
+    margin-left: 650px;
+}
+.ovr-body{
+    background: linear-gradient(45deg, #131086, #b621f3);
+}

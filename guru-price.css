@@ -1,0 +1,59 @@
+.searchbutton{
+    width: 20px;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.nav-colar{
+    background-color: white;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.head-one{
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+}
+.ovr-body{
+    background: linear-gradient(45deg, #131086, #b621f3);
+}
+.boxes{
+    background: white;
+    box-shadow: 1px 1px 5px 5px white;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: white;
+}
+.pricing-plan-recommend{
+    background: linear-gradient(45deg, #131086, #b621f3);
+    color: white;
+    text-align: center;
+}
+.pricing-plan-title{
+    text-align: center;
+}
+.pricing-plan-only{
+    text-align: center;
+}
+.pricing-plan-price{
+    text-align: center;
+}
+.pricing-plan-price-unit{
+    text-align: center;
+}
+.pricing-plan-storage{
+    text-align: center;
+}
+.pricing-plan-trasfer{
+    text-align: center;
+}
+.card-body{
+    align-items: center;
+}
+.copyright{
+    text-align: center;
+}
+.copyright-text{
+    color: white;
+}
